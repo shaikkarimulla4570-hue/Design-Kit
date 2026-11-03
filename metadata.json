@@ -1,0 +1,6 @@
+{
+  "name": "DesignKit",
+  "description": "Professional client-side image tools to resize, compress, convert, edit, and create images directly in your browser with zero server uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
